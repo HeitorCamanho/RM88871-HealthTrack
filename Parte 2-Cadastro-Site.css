@@ -1,0 +1,23 @@
+body{
+    background-color: #1C1C1C;
+    ;
+    margin: auto;
+    text-align: left;
+}
+
+.col-md-5{
+    margin-left: 30%;
+    margin-top: 50px;
+    color: white;
+}
+
+a{
+    color: white;
+    margin-left: 46%;
+    margin-top: 25px;
+    text-decoration: none;
+}
+
+input:focus{
+    background-color:#4F4F4F;
+}

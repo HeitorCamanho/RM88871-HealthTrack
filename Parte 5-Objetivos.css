@@ -1,0 +1,59 @@
+body{
+    background-color: #1C1C1C;
+}
+
+h1{
+    background-color: gray;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border: solid black
+}
+
+.img_objec{
+    text-align: center;
+}
+
+img{
+    border: 3px solid black;
+    border-radius: 50px;
+}
+
+h2{
+    background-color: gray;
+    border: solid black 3px;
+    border-radius: 5px;
+    height: 50px;
+}
+.tit1{
+    color: black;
+    text-align: center;
+}
+
+label{
+    font-size: x-large;
+}
+
+.mb-4{
+    color: white;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 176px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+    height: 100%;
+    background-color: gray;
+}
+
+#link_final{
+    color: black;
+    text-decoration: none;
+    font-size: xx-large;
+}
